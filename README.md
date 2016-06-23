@@ -4,3 +4,4 @@
     #define kAppSecret @"4dbc0a36778544dd6badcd18f2a22484"
   
 <h4>屏幕截图
+![image](http://github.com/xprocwin7/weibo/screenPicture/raw/master/1.png)
