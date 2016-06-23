@@ -11,3 +11,7 @@
 ![image](http://static.oschina.net/uploads/space/2016/0623/112219_vMRI_2643881.png)
 ![image](http://static.oschina.net/uploads/space/2016/0623/112237_MDsn_2643881.png)
 ![image](http://static.oschina.net/uploads/space/2016/0623/112259_KPQ7_2643881.png)
+<h4>项目功能</h4>
+1.不停的刷新，可以提示未读微博数，刷新微博时带有提示音
+2.可以发送图片
+3.可以参与微博的评论
