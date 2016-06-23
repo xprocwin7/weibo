@@ -4,10 +4,10 @@
     #define kAppSecret @"4dbc0a36778544dd6badcd18f2a22484"
   
 <h4>屏幕截图</h4>
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/1.png)
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/2.png)
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/3.png)
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/4.png)
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/5.png)
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/6.png)
-![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/7.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112047_aeeN_2643881.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112115_C5uh_2643881.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112138_YgqL_2643881.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112159_0yHi_2643881.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112219_vMRI_2643881.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112237_MDsn_2643881.png)
+![image](http://static.oschina.net/uploads/space/2016/0623/112259_KPQ7_2643881.png)
