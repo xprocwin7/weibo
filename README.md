@@ -3,5 +3,5 @@
     #define kAppKey @"3636496192"
     #define kAppSecret @"4dbc0a36778544dd6badcd18f2a22484"
   
-<h4>屏幕截图
-![image](http://github.com/xprocwin7/weibo/screenPicture/raw/master/1.png)
+<h4>屏幕截图</h4>
+![image](http://github.com/xprocwin7/weibo/raw/master/screenPicture/1.png)
