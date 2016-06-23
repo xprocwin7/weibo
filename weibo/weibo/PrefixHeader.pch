@@ -1,0 +1,29 @@
+//
+//  PrefixHeader.pch
+//  weibo
+//
+//  Created by dragon on 16/6/19.
+//  Copyright © 2016年 win. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define kAppKey @"3636496192"
+#define kAppSecret @"4dbc0a36778544dd6badcd18f2a22484"
+
+
+#import "XPAccount.h"
+#import "XPWeiboUtils.h"
+#import "UIImageView+AFNetworking.h"
+#import "UIImage+AFNetworking.h"
+#define kAccountPath [NSHomeDirectory() stringByAppendingPathComponent:@"Documents/xp.plist"]
+
+#define kTextSize 13
+#define kImageSize (kScreenWidth-4*kMargen)/3
+#define kMargen 8
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeigth [UIScreen mainScreen].bounds.size.height
+
+
+#endif /* PrefixHeader_pch */
